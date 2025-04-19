@@ -70,13 +70,3 @@ cd svm-optimization-experiment
 pip install -r requirements.txt
 python svm_experiment.py
 ```
-
-Or run in Google Colab:
-
-👉 [Open in Colab](https://colab.research.google.com/drive/1W-NaCXbcTH51ech3jUUNiXSSjpb_K3aZ#scrollTo=6E1PAdI0kVvV)
-
-## License
-[MIT License](LICENSE)
-
-## Contributing
-Feel free to fork, contribute, and create pull requests.
